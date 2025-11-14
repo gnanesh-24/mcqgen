@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: mcqgenrator
+Version: 0.0.1
+Author: gnanesh
+Author-email: gnanesreddy1603@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF-2
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
